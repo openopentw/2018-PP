@@ -33,3 +33,6 @@
 
 # Vim tmp files
 .*.un~
+
+# example from PF
+/example-from-PF
